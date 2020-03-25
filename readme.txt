@@ -33,3 +33,5 @@ MData contains the following fields:
 	- speciesPairCombos: Cell array of organisms used in each of the simulations.
 
 	- CSource pair combos: Cell array of carbon sources used in each of the simulations.
+
+This code and metadata can be found on the BCO-DMO dataset landing page: https://www.bco-dmo.org/dataset/806874
